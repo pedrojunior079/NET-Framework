@@ -1,0 +1,10 @@
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\bin\Debug\CSharpApostilaCap3.exe.config
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\bin\Debug\CSharpApostilaCap3.exe
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\bin\Debug\CSharpApostilaCap3.pdb
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\obj\Debug\CSharpApostilaCap3.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\obj\Debug\CSharpApostilaCap3.Form1.resources
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\obj\Debug\CSharpApostilaCap3.Properties.Resources.resources
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\obj\Debug\CSharpApostilaCap3.csproj.GenerateResource.cache
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\obj\Debug\CSharpApostilaCap3.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\obj\Debug\CSharpApostilaCap3.exe
+C:\GitHub\NET-Framework\CSharpApostilaCap3\CSharpApostilaCap3\obj\Debug\CSharpApostilaCap3.pdb
