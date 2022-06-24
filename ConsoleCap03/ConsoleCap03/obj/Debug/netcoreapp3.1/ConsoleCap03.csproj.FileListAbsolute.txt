@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\bin\Debug\netcoreapp3.1\ConsoleCap03.exe
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\bin\Debug\netcoreapp3.1\ConsoleCap03.deps.json
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\bin\Debug\netcoreapp3.1\ConsoleCap03.runtimeconfig.json
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\bin\Debug\netcoreapp3.1\ConsoleCap03.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\bin\Debug\netcoreapp3.1\ConsoleCap03.dll
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\bin\Debug\netcoreapp3.1\ConsoleCap03.pdb
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\obj\Debug\netcoreapp3.1\ConsoleCap03.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\obj\Debug\netcoreapp3.1\ConsoleCap03.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\obj\Debug\netcoreapp3.1\ConsoleCap03.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\obj\Debug\netcoreapp3.1\ConsoleCap03.AssemblyInfo.cs
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\obj\Debug\netcoreapp3.1\ConsoleCap03.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\obj\Debug\netcoreapp3.1\ConsoleCap03.dll
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\obj\Debug\netcoreapp3.1\ConsoleCap03.pdb
+C:\GitHub\NET-Framework\ConsoleCap03\ConsoleCap03\obj\Debug\netcoreapp3.1\ConsoleCap03.genruntimeconfig.cache

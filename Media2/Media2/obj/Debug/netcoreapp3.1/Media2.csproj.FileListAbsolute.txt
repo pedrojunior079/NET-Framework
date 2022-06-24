@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.exe
+C:\GitHub\NET-Framework\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.deps.json
+C:\GitHub\NET-Framework\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.runtimeconfig.json
+C:\GitHub\NET-Framework\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.dll
+C:\GitHub\NET-Framework\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.pdb
+C:\GitHub\NET-Framework\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.AssemblyInfo.cs
+C:\GitHub\NET-Framework\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.dll
+C:\GitHub\NET-Framework\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.pdb
+C:\GitHub\NET-Framework\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.genruntimeconfig.cache

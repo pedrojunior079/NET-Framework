@@ -1,0 +1,10 @@
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\bin\Debug\Bemvindo4.exe.config
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\bin\Debug\Bemvindo4.exe
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\bin\Debug\Bemvindo4.pdb
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\obj\Debug\Bemvindo4.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\obj\Debug\Bemvindo4.Form1.resources
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\obj\Debug\Bemvindo4.Properties.Resources.resources
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\obj\Debug\Bemvindo4.csproj.GenerateResource.cache
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\obj\Debug\Bemvindo4.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\obj\Debug\Bemvindo4.exe
+C:\GitHub\NET-Framework\Bemvindo4\Bemvindo4\obj\Debug\Bemvindo4.pdb

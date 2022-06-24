@@ -1,0 +1,13 @@
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\bin\Debug\netcoreapp3.1\Bemvindo2.exe
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\bin\Debug\netcoreapp3.1\Bemvindo2.deps.json
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\bin\Debug\netcoreapp3.1\Bemvindo2.runtimeconfig.json
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\bin\Debug\netcoreapp3.1\Bemvindo2.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\bin\Debug\netcoreapp3.1\Bemvindo2.dll
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\bin\Debug\netcoreapp3.1\Bemvindo2.pdb
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\obj\Debug\netcoreapp3.1\Bemvindo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\obj\Debug\netcoreapp3.1\Bemvindo2.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\obj\Debug\netcoreapp3.1\Bemvindo2.AssemblyInfo.cs
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\obj\Debug\netcoreapp3.1\Bemvindo2.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\obj\Debug\netcoreapp3.1\Bemvindo2.dll
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\obj\Debug\netcoreapp3.1\Bemvindo2.pdb
+C:\GitHub\NET-Framework\Bemvindo2\Bemvindo2\obj\Debug\netcoreapp3.1\Bemvindo2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\Incremento\Incremento\bin\Debug\netcoreapp3.1\Incremento.exe
+C:\GitHub\NET-Framework\Incremento\Incremento\bin\Debug\netcoreapp3.1\Incremento.deps.json
+C:\GitHub\NET-Framework\Incremento\Incremento\bin\Debug\netcoreapp3.1\Incremento.runtimeconfig.json
+C:\GitHub\NET-Framework\Incremento\Incremento\bin\Debug\netcoreapp3.1\Incremento.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\Incremento\Incremento\bin\Debug\netcoreapp3.1\Incremento.dll
+C:\GitHub\NET-Framework\Incremento\Incremento\bin\Debug\netcoreapp3.1\Incremento.pdb
+C:\GitHub\NET-Framework\Incremento\Incremento\obj\Debug\netcoreapp3.1\Incremento.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\Incremento\Incremento\obj\Debug\netcoreapp3.1\Incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\Incremento\Incremento\obj\Debug\netcoreapp3.1\Incremento.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\Incremento\Incremento\obj\Debug\netcoreapp3.1\Incremento.AssemblyInfo.cs
+C:\GitHub\NET-Framework\Incremento\Incremento\obj\Debug\netcoreapp3.1\Incremento.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\Incremento\Incremento\obj\Debug\netcoreapp3.1\Incremento.dll
+C:\GitHub\NET-Framework\Incremento\Incremento\obj\Debug\netcoreapp3.1\Incremento.pdb
+C:\GitHub\NET-Framework\Incremento\Incremento\obj\Debug\netcoreapp3.1\Incremento.genruntimeconfig.cache

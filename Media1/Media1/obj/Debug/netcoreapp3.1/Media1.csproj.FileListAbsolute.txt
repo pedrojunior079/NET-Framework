@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\Media1\Media1\bin\Debug\netcoreapp3.1\Media1.exe
+C:\GitHub\NET-Framework\Media1\Media1\bin\Debug\netcoreapp3.1\Media1.deps.json
+C:\GitHub\NET-Framework\Media1\Media1\bin\Debug\netcoreapp3.1\Media1.runtimeconfig.json
+C:\GitHub\NET-Framework\Media1\Media1\bin\Debug\netcoreapp3.1\Media1.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\Media1\Media1\bin\Debug\netcoreapp3.1\Media1.dll
+C:\GitHub\NET-Framework\Media1\Media1\bin\Debug\netcoreapp3.1\Media1.pdb
+C:\GitHub\NET-Framework\Media1\Media1\obj\Debug\netcoreapp3.1\Media1.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\Media1\Media1\obj\Debug\netcoreapp3.1\Media1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\Media1\Media1\obj\Debug\netcoreapp3.1\Media1.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\Media1\Media1\obj\Debug\netcoreapp3.1\Media1.AssemblyInfo.cs
+C:\GitHub\NET-Framework\Media1\Media1\obj\Debug\netcoreapp3.1\Media1.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\Media1\Media1\obj\Debug\netcoreapp3.1\Media1.dll
+C:\GitHub\NET-Framework\Media1\Media1\obj\Debug\netcoreapp3.1\Media1.pdb
+C:\GitHub\NET-Framework\Media1\Media1\obj\Debug\netcoreapp3.1\Media1.genruntimeconfig.cache

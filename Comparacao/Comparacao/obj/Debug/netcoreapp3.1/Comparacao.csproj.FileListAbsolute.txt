@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\Comparacao\Comparacao\bin\Debug\netcoreapp3.1\Comparacao.exe
+C:\GitHub\NET-Framework\Comparacao\Comparacao\bin\Debug\netcoreapp3.1\Comparacao.deps.json
+C:\GitHub\NET-Framework\Comparacao\Comparacao\bin\Debug\netcoreapp3.1\Comparacao.runtimeconfig.json
+C:\GitHub\NET-Framework\Comparacao\Comparacao\bin\Debug\netcoreapp3.1\Comparacao.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\Comparacao\Comparacao\bin\Debug\netcoreapp3.1\Comparacao.dll
+C:\GitHub\NET-Framework\Comparacao\Comparacao\bin\Debug\netcoreapp3.1\Comparacao.pdb
+C:\GitHub\NET-Framework\Comparacao\Comparacao\obj\Debug\netcoreapp3.1\Comparacao.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\Comparacao\Comparacao\obj\Debug\netcoreapp3.1\Comparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\Comparacao\Comparacao\obj\Debug\netcoreapp3.1\Comparacao.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\Comparacao\Comparacao\obj\Debug\netcoreapp3.1\Comparacao.AssemblyInfo.cs
+C:\GitHub\NET-Framework\Comparacao\Comparacao\obj\Debug\netcoreapp3.1\Comparacao.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\Comparacao\Comparacao\obj\Debug\netcoreapp3.1\Comparacao.dll
+C:\GitHub\NET-Framework\Comparacao\Comparacao\obj\Debug\netcoreapp3.1\Comparacao.pdb
+C:\GitHub\NET-Framework\Comparacao\Comparacao\obj\Debug\netcoreapp3.1\Comparacao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\GitHub\NET-Framework\Analises\Analises\bin\Debug\netcoreapp3.1\Analises.exe
+C:\GitHub\NET-Framework\Analises\Analises\bin\Debug\netcoreapp3.1\Analises.deps.json
+C:\GitHub\NET-Framework\Analises\Analises\bin\Debug\netcoreapp3.1\Analises.runtimeconfig.json
+C:\GitHub\NET-Framework\Analises\Analises\bin\Debug\netcoreapp3.1\Analises.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\Analises\Analises\bin\Debug\netcoreapp3.1\Analises.dll
+C:\GitHub\NET-Framework\Analises\Analises\bin\Debug\netcoreapp3.1\Analises.pdb
+C:\GitHub\NET-Framework\Analises\Analises\obj\Debug\netcoreapp3.1\Analises.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\Analises\Analises\obj\Debug\netcoreapp3.1\Analises.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\Analises\Analises\obj\Debug\netcoreapp3.1\Analises.AssemblyInfo.cs
+C:\GitHub\NET-Framework\Analises\Analises\obj\Debug\netcoreapp3.1\Analises.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\Analises\Analises\obj\Debug\netcoreapp3.1\Analises.dll
+C:\GitHub\NET-Framework\Analises\Analises\obj\Debug\netcoreapp3.1\Analises.pdb
+C:\GitHub\NET-Framework\Analises\Analises\obj\Debug\netcoreapp3.1\Analises.genruntimeconfig.cache

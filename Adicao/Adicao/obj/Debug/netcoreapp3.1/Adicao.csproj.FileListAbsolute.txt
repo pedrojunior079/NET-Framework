@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\Adicao\Adicao\bin\Debug\netcoreapp3.1\Adicao.exe
+C:\GitHub\NET-Framework\Adicao\Adicao\bin\Debug\netcoreapp3.1\Adicao.deps.json
+C:\GitHub\NET-Framework\Adicao\Adicao\bin\Debug\netcoreapp3.1\Adicao.runtimeconfig.json
+C:\GitHub\NET-Framework\Adicao\Adicao\bin\Debug\netcoreapp3.1\Adicao.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\Adicao\Adicao\bin\Debug\netcoreapp3.1\Adicao.dll
+C:\GitHub\NET-Framework\Adicao\Adicao\bin\Debug\netcoreapp3.1\Adicao.pdb
+C:\GitHub\NET-Framework\Adicao\Adicao\obj\Debug\netcoreapp3.1\Adicao.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\Adicao\Adicao\obj\Debug\netcoreapp3.1\Adicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\Adicao\Adicao\obj\Debug\netcoreapp3.1\Adicao.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\Adicao\Adicao\obj\Debug\netcoreapp3.1\Adicao.AssemblyInfo.cs
+C:\GitHub\NET-Framework\Adicao\Adicao\obj\Debug\netcoreapp3.1\Adicao.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\Adicao\Adicao\obj\Debug\netcoreapp3.1\Adicao.dll
+C:\GitHub\NET-Framework\Adicao\Adicao\obj\Debug\netcoreapp3.1\Adicao.pdb
+C:\GitHub\NET-Framework\Adicao\Adicao\obj\Debug\netcoreapp3.1\Adicao.genruntimeconfig.cache
