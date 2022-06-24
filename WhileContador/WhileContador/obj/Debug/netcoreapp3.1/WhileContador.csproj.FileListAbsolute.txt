@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\WhileContador\WhileContador\bin\Debug\netcoreapp3.1\WhileContador.exe
+C:\GitHub\NET-Framework\WhileContador\WhileContador\bin\Debug\netcoreapp3.1\WhileContador.deps.json
+C:\GitHub\NET-Framework\WhileContador\WhileContador\bin\Debug\netcoreapp3.1\WhileContador.runtimeconfig.json
+C:\GitHub\NET-Framework\WhileContador\WhileContador\bin\Debug\netcoreapp3.1\WhileContador.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\WhileContador\WhileContador\bin\Debug\netcoreapp3.1\WhileContador.dll
+C:\GitHub\NET-Framework\WhileContador\WhileContador\bin\Debug\netcoreapp3.1\WhileContador.pdb
+C:\GitHub\NET-Framework\WhileContador\WhileContador\obj\Debug\netcoreapp3.1\WhileContador.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\WhileContador\WhileContador\obj\Debug\netcoreapp3.1\WhileContador.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\WhileContador\WhileContador\obj\Debug\netcoreapp3.1\WhileContador.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\WhileContador\WhileContador\obj\Debug\netcoreapp3.1\WhileContador.AssemblyInfo.cs
+C:\GitHub\NET-Framework\WhileContador\WhileContador\obj\Debug\netcoreapp3.1\WhileContador.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\WhileContador\WhileContador\obj\Debug\netcoreapp3.1\WhileContador.dll
+C:\GitHub\NET-Framework\WhileContador\WhileContador\obj\Debug\netcoreapp3.1\WhileContador.pdb
+C:\GitHub\NET-Framework\WhileContador\WhileContador\obj\Debug\netcoreapp3.1\WhileContador.genruntimeconfig.cache
