@@ -1,0 +1,5 @@
+C:\GitHub\NET-Framework\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.AssemblyInfo.cs
+C:\GitHub\NET-Framework\DotNetDebugging\obj\Release\net6.0\DotNetDebugging.csproj.CoreCompileInputs.cache
