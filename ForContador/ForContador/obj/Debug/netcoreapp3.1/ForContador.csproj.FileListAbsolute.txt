@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\ForContador\ForContador\bin\Debug\netcoreapp3.1\ForContador.exe
+C:\GitHub\NET-Framework\ForContador\ForContador\bin\Debug\netcoreapp3.1\ForContador.deps.json
+C:\GitHub\NET-Framework\ForContador\ForContador\bin\Debug\netcoreapp3.1\ForContador.runtimeconfig.json
+C:\GitHub\NET-Framework\ForContador\ForContador\bin\Debug\netcoreapp3.1\ForContador.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\ForContador\ForContador\bin\Debug\netcoreapp3.1\ForContador.dll
+C:\GitHub\NET-Framework\ForContador\ForContador\bin\Debug\netcoreapp3.1\ForContador.pdb
+C:\GitHub\NET-Framework\ForContador\ForContador\obj\Debug\netcoreapp3.1\ForContador.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\ForContador\ForContador\obj\Debug\netcoreapp3.1\ForContador.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\ForContador\ForContador\obj\Debug\netcoreapp3.1\ForContador.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\ForContador\ForContador\obj\Debug\netcoreapp3.1\ForContador.AssemblyInfo.cs
+C:\GitHub\NET-Framework\ForContador\ForContador\obj\Debug\netcoreapp3.1\ForContador.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\ForContador\ForContador\obj\Debug\netcoreapp3.1\ForContador.dll
+C:\GitHub\NET-Framework\ForContador\ForContador\obj\Debug\netcoreapp3.1\ForContador.pdb
+C:\GitHub\NET-Framework\ForContador\ForContador\obj\Debug\netcoreapp3.1\ForContador.genruntimeconfig.cache
