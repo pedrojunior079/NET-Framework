@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\bin\Debug\netcoreapp3.1\SwitchTeste.exe
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\bin\Debug\netcoreapp3.1\SwitchTeste.deps.json
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\bin\Debug\netcoreapp3.1\SwitchTeste.runtimeconfig.json
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\bin\Debug\netcoreapp3.1\SwitchTeste.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\bin\Debug\netcoreapp3.1\SwitchTeste.dll
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\bin\Debug\netcoreapp3.1\SwitchTeste.pdb
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\obj\Debug\netcoreapp3.1\SwitchTeste.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\obj\Debug\netcoreapp3.1\SwitchTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\obj\Debug\netcoreapp3.1\SwitchTeste.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\obj\Debug\netcoreapp3.1\SwitchTeste.AssemblyInfo.cs
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\obj\Debug\netcoreapp3.1\SwitchTeste.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\obj\Debug\netcoreapp3.1\SwitchTeste.dll
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\obj\Debug\netcoreapp3.1\SwitchTeste.pdb
+C:\GitHub\NET-Framework\SwitchTeste\SwitchTeste\obj\Debug\netcoreapp3.1\SwitchTeste.genruntimeconfig.cache

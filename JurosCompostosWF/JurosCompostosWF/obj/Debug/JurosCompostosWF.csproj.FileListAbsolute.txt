@@ -1,0 +1,10 @@
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\bin\Debug\JurosCompostosWF.exe.config
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\bin\Debug\JurosCompostosWF.exe
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\bin\Debug\JurosCompostosWF.pdb
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\obj\Debug\JurosCompostosWF.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\obj\Debug\JurosCompostosWF.Form1.resources
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\obj\Debug\JurosCompostosWF.Properties.Resources.resources
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\obj\Debug\JurosCompostosWF.csproj.GenerateResource.cache
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\obj\Debug\JurosCompostosWF.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\obj\Debug\JurosCompostosWF.exe
+C:\GitHub\NET-Framework\JurosCompostosWF\JurosCompostosWF\obj\Debug\JurosCompostosWF.pdb
