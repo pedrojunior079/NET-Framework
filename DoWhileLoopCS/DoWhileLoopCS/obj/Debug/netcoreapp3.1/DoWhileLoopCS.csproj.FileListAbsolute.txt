@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\bin\Debug\netcoreapp3.1\DoWhileLoopCS.exe
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\bin\Debug\netcoreapp3.1\DoWhileLoopCS.deps.json
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\bin\Debug\netcoreapp3.1\DoWhileLoopCS.runtimeconfig.json
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\bin\Debug\netcoreapp3.1\DoWhileLoopCS.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\bin\Debug\netcoreapp3.1\DoWhileLoopCS.dll
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\bin\Debug\netcoreapp3.1\DoWhileLoopCS.pdb
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\obj\Debug\netcoreapp3.1\DoWhileLoopCS.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\obj\Debug\netcoreapp3.1\DoWhileLoopCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\obj\Debug\netcoreapp3.1\DoWhileLoopCS.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\obj\Debug\netcoreapp3.1\DoWhileLoopCS.AssemblyInfo.cs
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\obj\Debug\netcoreapp3.1\DoWhileLoopCS.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\obj\Debug\netcoreapp3.1\DoWhileLoopCS.dll
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\obj\Debug\netcoreapp3.1\DoWhileLoopCS.pdb
+C:\GitHub\NET-Framework\DoWhileLoopCS\DoWhileLoopCS\obj\Debug\netcoreapp3.1\DoWhileLoopCS.genruntimeconfig.cache

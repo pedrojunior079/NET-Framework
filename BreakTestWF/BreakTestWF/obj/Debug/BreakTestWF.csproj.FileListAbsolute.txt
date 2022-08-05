@@ -1,0 +1,10 @@
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\bin\Debug\BreakTestWF.exe.config
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\bin\Debug\BreakTestWF.exe
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\bin\Debug\BreakTestWF.pdb
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\obj\Debug\BreakTestWF.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\obj\Debug\BreakTestWF.Form1.resources
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\obj\Debug\BreakTestWF.Properties.Resources.resources
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\obj\Debug\BreakTestWF.csproj.GenerateResource.cache
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\obj\Debug\BreakTestWF.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\obj\Debug\BreakTestWF.exe
+C:\GitHub\NET-Framework\BreakTestWF\BreakTestWF\obj\Debug\BreakTestWF.pdb
