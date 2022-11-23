@@ -1,0 +1,14 @@
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\bin\Debug\netcoreapp3.1\OperadoresLogicosCS.exe
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\bin\Debug\netcoreapp3.1\OperadoresLogicosCS.deps.json
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\bin\Debug\netcoreapp3.1\OperadoresLogicosCS.runtimeconfig.json
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\bin\Debug\netcoreapp3.1\OperadoresLogicosCS.runtimeconfig.dev.json
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\bin\Debug\netcoreapp3.1\OperadoresLogicosCS.dll
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\bin\Debug\netcoreapp3.1\OperadoresLogicosCS.pdb
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\obj\Debug\netcoreapp3.1\OperadoresLogicosCS.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\obj\Debug\netcoreapp3.1\OperadoresLogicosCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\obj\Debug\netcoreapp3.1\OperadoresLogicosCS.AssemblyInfoInputs.cache
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\obj\Debug\netcoreapp3.1\OperadoresLogicosCS.AssemblyInfo.cs
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\obj\Debug\netcoreapp3.1\OperadoresLogicosCS.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\obj\Debug\netcoreapp3.1\OperadoresLogicosCS.dll
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\obj\Debug\netcoreapp3.1\OperadoresLogicosCS.pdb
+C:\GitHub\NET-Framework\OperadoresLogicosCS\OperadoresLogicosCS\obj\Debug\netcoreapp3.1\OperadoresLogicosCS.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\bin\Debug\ContinueTesteWF.exe.config
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\bin\Debug\ContinueTesteWF.exe
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\bin\Debug\ContinueTesteWF.pdb
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\obj\Debug\ContinueTesteWF.csproj.AssemblyReference.cache
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\obj\Debug\ContinueTesteWF.Form1.resources
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\obj\Debug\ContinueTesteWF.Properties.Resources.resources
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\obj\Debug\ContinueTesteWF.csproj.GenerateResource.cache
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\obj\Debug\ContinueTesteWF.csproj.CoreCompileInputs.cache
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\obj\Debug\ContinueTesteWF.exe
+C:\GitHub\NET-Framework\ContinueTesteWF\ContinueTesteWF\obj\Debug\ContinueTesteWF.pdb
